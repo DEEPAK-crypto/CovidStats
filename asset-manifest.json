@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CovidStats/static/css/main.4f3d900d.chunk.css",
-    "main.js": "/CovidStats/static/js/main.14d968a2.chunk.js",
-    "main.js.map": "/CovidStats/static/js/main.14d968a2.chunk.js.map",
+    "main.css": "/CovidStats/static/css/main.cc853ae3.chunk.css",
+    "main.js": "/CovidStats/static/js/main.7ef4bcce.chunk.js",
+    "main.js.map": "/CovidStats/static/js/main.7ef4bcce.chunk.js.map",
     "runtime-main.js": "/CovidStats/static/js/runtime-main.43d583ce.js",
     "runtime-main.js.map": "/CovidStats/static/js/runtime-main.43d583ce.js.map",
     "static/js/2.725c1228.chunk.js": "/CovidStats/static/js/2.725c1228.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.b5d859aa.chunk.js": "/CovidStats/static/js/3.b5d859aa.chunk.js",
     "static/js/3.b5d859aa.chunk.js.map": "/CovidStats/static/js/3.b5d859aa.chunk.js.map",
     "index.html": "/CovidStats/index.html",
-    "static/css/main.4f3d900d.chunk.css.map": "/CovidStats/static/css/main.4f3d900d.chunk.css.map",
+    "static/css/main.cc853ae3.chunk.css.map": "/CovidStats/static/css/main.cc853ae3.chunk.css.map",
     "static/js/2.725c1228.chunk.js.LICENSE.txt": "/CovidStats/static/js/2.725c1228.chunk.js.LICENSE.txt",
     "static/media/index.css": "/CovidStats/static/media/archia-semibold-webfont.fc74be97.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.43d583ce.js",
     "static/js/2.725c1228.chunk.js",
-    "static/css/main.4f3d900d.chunk.css",
-    "static/js/main.14d968a2.chunk.js"
+    "static/css/main.cc853ae3.chunk.css",
+    "static/js/main.7ef4bcce.chunk.js"
   ]
 }
